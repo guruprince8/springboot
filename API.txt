@@ -1,0 +1,12 @@
+-- SOAP
+
+https://www.baeldung.com/spring-boot-soap-web-service
+https://stackoverflow.com/questions/17471206/maven-jaxb2-xjc-plugin-error-no-schemas-have-been-found
+https://mvnrepository.com/artifact/javax.activation/javax.activation-api/1.2.0
+
+https://stackoverflow.com/questions/54869262/xjc-maven-pluginjaxb2-maven-plugin-java-11-migration-issues -- important one
+https://stackoverflow.com/questions/30200807/maven-jaxb2xjc-failing-to-generate-code -- second one
+
+https://mvnrepository.com/artifact/org.springframework.ws/spring-xml/2.0.3.RELEASE
+
+-- REST
